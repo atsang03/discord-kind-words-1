@@ -1,0 +1,5 @@
+discord.py
+SQLAlchemy
+Jinja2
+better-profanity
+Pillow
