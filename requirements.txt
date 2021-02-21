@@ -4,3 +4,4 @@ Jinja2
 better-profanity
 Pillow
 python-dotenv
+psycopg2
